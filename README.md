@@ -9,6 +9,9 @@ dotnet tool update -g dotnet-ef
 Voer uit in directory EmpAPI1:
 
 dotnet ef migrations add InitialCreate -p ..\..\Libraries\EmpAPI1.Infrastructure
-dotnet ef database update# to LOGIN 
+dotnet ef database update#
+
+# Login in Razor
+to LOGIN 
 firstname : Ja 
 Lastname : Morant 
