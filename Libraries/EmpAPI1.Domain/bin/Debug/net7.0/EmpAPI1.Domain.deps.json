@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "EmpAPI1.Domain/1.0.0": {
+        "runtime": {
+          "EmpAPI1.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmpAPI1.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

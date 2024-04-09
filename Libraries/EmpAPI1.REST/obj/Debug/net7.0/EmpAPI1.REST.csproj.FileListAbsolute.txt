@@ -1,0 +1,17 @@
+C:\Users\yazan\Downloads\EmpAPI1 (1)\EmpAPI1\Libraries\EmpAPI1.REST\bin\Debug\net7.0\EmpAPI1.REST.deps.json
+C:\Users\yazan\Downloads\EmpAPI1 (1)\EmpAPI1\Libraries\EmpAPI1.REST\bin\Debug\net7.0\EmpAPI1.REST.dll
+C:\Users\yazan\Downloads\EmpAPI1 (1)\EmpAPI1\Libraries\EmpAPI1.REST\bin\Debug\net7.0\EmpAPI1.REST.pdb
+C:\Users\yazan\Downloads\EmpAPI1 (1)\EmpAPI1\Libraries\EmpAPI1.REST\bin\Debug\net7.0\EmpAPI1.Domain.dll
+C:\Users\yazan\Downloads\EmpAPI1 (1)\EmpAPI1\Libraries\EmpAPI1.REST\bin\Debug\net7.0\EmpAPI1.Infrastructure.dll
+C:\Users\yazan\Downloads\EmpAPI1 (1)\EmpAPI1\Libraries\EmpAPI1.REST\bin\Debug\net7.0\EmpAPI1.Infrastructure.pdb
+C:\Users\yazan\Downloads\EmpAPI1 (1)\EmpAPI1\Libraries\EmpAPI1.REST\bin\Debug\net7.0\EmpAPI1.Domain.pdb
+C:\Users\yazan\Downloads\EmpAPI1 (1)\EmpAPI1\Libraries\EmpAPI1.REST\obj\Debug\net7.0\EmpAPI1.REST.csproj.AssemblyReference.cache
+C:\Users\yazan\Downloads\EmpAPI1 (1)\EmpAPI1\Libraries\EmpAPI1.REST\obj\Debug\net7.0\EmpAPI1.REST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yazan\Downloads\EmpAPI1 (1)\EmpAPI1\Libraries\EmpAPI1.REST\obj\Debug\net7.0\EmpAPI1.REST.AssemblyInfoInputs.cache
+C:\Users\yazan\Downloads\EmpAPI1 (1)\EmpAPI1\Libraries\EmpAPI1.REST\obj\Debug\net7.0\EmpAPI1.REST.AssemblyInfo.cs
+C:\Users\yazan\Downloads\EmpAPI1 (1)\EmpAPI1\Libraries\EmpAPI1.REST\obj\Debug\net7.0\EmpAPI1.REST.csproj.CoreCompileInputs.cache
+C:\Users\yazan\Downloads\EmpAPI1 (1)\EmpAPI1\Libraries\EmpAPI1.REST\obj\Debug\net7.0\EmpAPI1.REST.csproj.CopyComplete
+C:\Users\yazan\Downloads\EmpAPI1 (1)\EmpAPI1\Libraries\EmpAPI1.REST\obj\Debug\net7.0\EmpAPI1.REST.dll
+C:\Users\yazan\Downloads\EmpAPI1 (1)\EmpAPI1\Libraries\EmpAPI1.REST\obj\Debug\net7.0\refint\EmpAPI1.REST.dll
+C:\Users\yazan\Downloads\EmpAPI1 (1)\EmpAPI1\Libraries\EmpAPI1.REST\obj\Debug\net7.0\EmpAPI1.REST.pdb
+C:\Users\yazan\Downloads\EmpAPI1 (1)\EmpAPI1\Libraries\EmpAPI1.REST\obj\Debug\net7.0\ref\EmpAPI1.REST.dll

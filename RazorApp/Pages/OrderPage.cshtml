@@ -1,0 +1,100 @@
+﻿@page
+@model RazorApp.Pages.OrderPageModel
+
+
+
+<h2>Unpaid Orders</h2>
+@if (Model.UnpaidOrders.Count == 0)
+{
+    <p> You don't have any unpaid order yet</p>
+}
+
+@foreach (var order in Model.UnpaidOrders)
+{
+    <div class="card mb-3">
+        @{
+            decimal totalPrice = 0;
+        }
+        <div class="card-body">
+            <h5 class="card-title">Order ID: @order.Id </h5>
+            <p class="card-text">
+                <strong>Order Date: </strong> @order.CreatedAt.ToString("hh:mm tt") <br />
+            </p>
+            @foreach (var item in order.OrderItems)
+            {
+                <div class="row mb-2">
+                    <div class="col-sm-9">
+                        <strong>Name: </strong> @item.DishName <br />
+                        <strong>Quantity: </strong> @item.Quantity  <br />
+                        <strong> Price : </strong> @item.Price <br />
+                        @{
+                            totalPrice += (decimal)item.Price;
+                        }
+                    </div>
+                    <div class="col-sm-3">
+                        <form method="post" asp-page-handler="Remove" asp-route-id="@order.Id">
+                            <input type="hidden" name="dishIdToRemove" value="@item.DishId" />
+                            <button type="submit" class="btn btn-primary">Remove Dish</button>
+                        </form>
+                    </div>
+                </div>
+            }
+            <div class="text-center">
+                <strong>Total Price: </strong>@totalPrice
+            </div>
+            <div class="row mt-3 d-flex justify-content-center align-items-center">
+                <div class="col-sm-6 text-center" >
+                    <form method="post" asp-page-handler="Edit" asp-route-id="@order.Id" class="d-flex flex-column">
+                        
+                        <label for="dishIdToAdd">Select a dish to Add:</label>
+                        <select id="dishIdToAdd" name="dishIdToAdd" class="mb-2">
+                            @foreach (var dish in Model.AllDishes)
+                            {
+                                <option value="@dish.Id">@dish.Name</option>
+                            }
+                        </select>
+                        <label for="quantity">Quantity:</label>
+                        <input type="number" id="quantity" name="quantity" min="1" value="1" class="mb-2" />
+                        <button type="submit" class="btn btn-primary">Add Dish</button>
+                    </form>
+                </div>               
+            </div>
+
+            <div class="d-flex justify-content-end mt-3">
+                <form method="post" asp-page-handler="Pay" asp-route-id="@order.Id" class="me-2">
+                    <button type="submit" class="btn btn-success">Pay</button>
+                </form>
+                <form method="post" asp-page-handler="Delete" asp-route-id="@order.Id">
+                    <button type="submit" class="btn btn-danger">Delete</button>
+                </form>
+            </div>
+        </div>
+    </div>
+}
+
+
+<h2>Paid Orders</h2>
+@if (Model.PaidOrders.Count == 0)
+{
+    <p> You don't have any order yet</p>
+}
+@foreach (var order in Model.PaidOrders)
+{
+    <div class="card mb-3">
+        <div class="card-body">
+            <h5 class="card-title">Order ID: @order.Id</h5>
+            <p class="card-text">
+                <strong>Order Date: </strong> @order.CreatedAt.ToString("hh:mm tt") <br />
+                @foreach (var item in order.OrderItems)
+                {
+                    <strong>Name: </strong> @item.DishName <br />
+                    <strong>Quantity: </strong>
+
+                    @item.Quantity  <br />
+                }
+            </p>
+        </div>
+    </div>
+}
+
+

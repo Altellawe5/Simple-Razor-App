@@ -1,0 +1,908 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC93E27E-693B-4AA8-82E6-7941A28A7807}|RazorApp\\RazorApp.csproj|C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\razorapp\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC93E27E-693B-4AA8-82E6-7941A28A7807}|RazorApp\\RazorApp.csproj|solutionrelative:razorapp\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA37C2D4-B538-4DD2-8E87-3CD170C4E37B}|CreateDatabase\\CreateDatabase.csproj|C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\createdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA37C2D4-B538-4DD2-8E87-3CD170C4E37B}|CreateDatabase\\CreateDatabase.csproj|solutionrelative:createdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC93E27E-693B-4AA8-82E6-7941A28A7807}|RazorApp\\RazorApp.csproj|c:\\users\\yazan\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\hogent\\3 semester\\web4\\web4-f\\razorapp\\services\\customerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC93E27E-693B-4AA8-82E6-7941A28A7807}|RazorApp\\RazorApp.csproj|solutionrelative:razorapp\\services\\customerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC93E27E-693B-4AA8-82E6-7941A28A7807}|RazorApp\\RazorApp.csproj|C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\razorapp\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC93E27E-693B-4AA8-82E6-7941A28A7807}|RazorApp\\RazorApp.csproj|solutionrelative:razorapp\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB89207-3ABF-49C5-AD6F-EADCACC99BDE}|Libraries\\EmpAPI1.REST\\Menu.REST.csproj|C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\libraries\\empapi1.rest\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB89207-3ABF-49C5-AD6F-EADCACC99BDE}|Libraries\\EmpAPI1.REST\\Menu.REST.csproj|solutionrelative:libraries\\empapi1.rest\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5859390A-AA08-429B-9535-8746AC23067F}|Apps\\EmpAPI1\\Menu.csproj|C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\apps\\empapi1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5859390A-AA08-429B-9535-8746AC23067F}|Apps\\EmpAPI1\\Menu.csproj|solutionrelative:apps\\empapi1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC93E27E-693B-4AA8-82E6-7941A28A7807}|RazorApp\\RazorApp.csproj|C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\razorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC93E27E-693B-4AA8-82E6-7941A28A7807}|RazorApp\\RazorApp.csproj|solutionrelative:razorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78EA44BB-9B40-4268-8158-05C63E7C0752}|Libraries\\EmpAPI1.Infrastructure\\Menu.Infrastructure.csproj|C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\libraries\\empapi1.infrastructure\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78EA44BB-9B40-4268-8158-05C63E7C0752}|Libraries\\EmpAPI1.Infrastructure\\Menu.Infrastructure.csproj|solutionrelative:libraries\\empapi1.infrastructure\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F6F3B8-87CE-4C07-ADF0-CD1EBE2A7330}|Libraries\\EmpAPI1.Domain\\Menu.Domain.csproj|C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\libraries\\empapi1.domain\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F6F3B8-87CE-4C07-ADF0-CD1EBE2A7330}|Libraries\\EmpAPI1.Domain\\Menu.Domain.csproj|solutionrelative:libraries\\empapi1.domain\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB89207-3ABF-49C5-AD6F-EADCACC99BDE}|Libraries\\EmpAPI1.REST\\Menu.REST.csproj|C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\libraries\\empapi1.rest\\mapping\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB89207-3ABF-49C5-AD6F-EADCACC99BDE}|Libraries\\EmpAPI1.REST\\Menu.REST.csproj|solutionrelative:libraries\\empapi1.rest\\mapping\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC93E27E-693B-4AA8-82E6-7941A28A7807}|RazorApp\\RazorApp.csproj|C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\razorapp\\razorapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BC93E27E-693B-4AA8-82E6-7941A28A7807}|RazorApp\\RazorApp.csproj|solutionrelative:razorapp\\razorapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78EA44BB-9B40-4268-8158-05C63E7C0752}|Libraries\\EmpAPI1.Infrastructure\\Menu.Infrastructure.csproj|C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\libraries\\empapi1.infrastructure\\menudbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78EA44BB-9B40-4268-8158-05C63E7C0752}|Libraries\\EmpAPI1.Infrastructure\\Menu.Infrastructure.csproj|solutionrelative:libraries\\empapi1.infrastructure\\menudbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB89207-3ABF-49C5-AD6F-EADCACC99BDE}|Libraries\\EmpAPI1.REST\\Menu.REST.csproj|C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\libraries\\empapi1.rest\\dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB89207-3ABF-49C5-AD6F-EADCACC99BDE}|Libraries\\EmpAPI1.REST\\Menu.REST.csproj|solutionrelative:libraries\\empapi1.rest\\dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5859390A-AA08-429B-9535-8746AC23067F}|Apps\\EmpAPI1\\Menu.csproj|C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\apps\\empapi1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5859390A-AA08-429B-9535-8746AC23067F}|Apps\\EmpAPI1\\Menu.csproj|solutionrelative:apps\\empapi1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5859390A-AA08-429B-9535-8746AC23067F}|Apps\\EmpAPI1\\Menu.csproj|C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\apps\\empapi1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5859390A-AA08-429B-9535-8746AC23067F}|Apps\\EmpAPI1\\Menu.csproj|solutionrelative:apps\\empapi1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB89207-3ABF-49C5-AD6F-EADCACC99BDE}|Libraries\\EmpAPI1.REST\\Menu.REST.csproj|C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\libraries\\empapi1.rest\\dishcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB89207-3ABF-49C5-AD6F-EADCACC99BDE}|Libraries\\EmpAPI1.REST\\Menu.REST.csproj|solutionrelative:libraries\\empapi1.rest\\dishcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D82D5BF-27F5-4F41-9579-E8360A34BD6A}|DishManegment\\DishManegment.csproj|C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\dishmanegment\\dishmanegment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8D82D5BF-27F5-4F41-9579-E8360A34BD6A}|DishManegment\\DishManegment.csproj|solutionrelative:dishmanegment\\dishmanegment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB89207-3ABF-49C5-AD6F-EADCACC99BDE}|Libraries\\EmpAPI1.REST\\Menu.REST.csproj|C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\libraries\\empapi1.rest\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB89207-3ABF-49C5-AD6F-EADCACC99BDE}|Libraries\\EmpAPI1.REST\\Menu.REST.csproj|solutionrelative:libraries\\empapi1.rest\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78EA44BB-9B40-4268-8158-05C63E7C0752}|Libraries\\EmpAPI1.Infrastructure\\Menu.Infrastructure.csproj|C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\libraries\\empapi1.infrastructure\\repositories\\dishrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78EA44BB-9B40-4268-8158-05C63E7C0752}|Libraries\\EmpAPI1.Infrastructure\\Menu.Infrastructure.csproj|solutionrelative:libraries\\empapi1.infrastructure\\repositories\\dishrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78EA44BB-9B40-4268-8158-05C63E7C0752}|Libraries\\EmpAPI1.Infrastructure\\Menu.Infrastructure.csproj|C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\libraries\\empapi1.infrastructure\\mapping\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78EA44BB-9B40-4268-8158-05C63E7C0752}|Libraries\\EmpAPI1.Infrastructure\\Menu.Infrastructure.csproj|solutionrelative:libraries\\empapi1.infrastructure\\mapping\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F6F3B8-87CE-4C07-ADF0-CD1EBE2A7330}|Libraries\\EmpAPI1.Domain\\Menu.Domain.csproj|C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\libraries\\empapi1.domain\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F6F3B8-87CE-4C07-ADF0-CD1EBE2A7330}|Libraries\\EmpAPI1.Domain\\Menu.Domain.csproj|solutionrelative:libraries\\empapi1.domain\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78EA44BB-9B40-4268-8158-05C63E7C0752}|Libraries\\EmpAPI1.Infrastructure\\Menu.Infrastructure.csproj|C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\libraries\\empapi1.infrastructure\\dto\\customeref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78EA44BB-9B40-4268-8158-05C63E7C0752}|Libraries\\EmpAPI1.Infrastructure\\Menu.Infrastructure.csproj|solutionrelative:libraries\\empapi1.infrastructure\\dto\\customeref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB89207-3ABF-49C5-AD6F-EADCACC99BDE}|Libraries\\EmpAPI1.REST\\Menu.REST.csproj|C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\libraries\\empapi1.rest\\dto\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB89207-3ABF-49C5-AD6F-EADCACC99BDE}|Libraries\\EmpAPI1.REST\\Menu.REST.csproj|solutionrelative:libraries\\empapi1.rest\\dto\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D82D5BF-27F5-4F41-9579-E8360A34BD6A}|DishManegment\\DishManegment.csproj|C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\dishmanegment\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D82D5BF-27F5-4F41-9579-E8360A34BD6A}|DishManegment\\DishManegment.csproj|solutionrelative:dishmanegment\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D82D5BF-27F5-4F41-9579-E8360A34BD6A}|DishManegment\\DishManegment.csproj|C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\dishmanegment\\dishwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D82D5BF-27F5-4F41-9579-E8360A34BD6A}|DishManegment\\DishManegment.csproj|solutionrelative:dishmanegment\\dishwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D82D5BF-27F5-4F41-9579-E8360A34BD6A}|DishManegment\\DishManegment.csproj|C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\dishmanegment\\services\\dishservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D82D5BF-27F5-4F41-9579-E8360A34BD6A}|DishManegment\\DishManegment.csproj|solutionrelative:dishmanegment\\services\\dishservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D82D5BF-27F5-4F41-9579-E8360A34BD6A}|DishManegment\\DishManegment.csproj|C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\dishmanegment\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8D82D5BF-27F5-4F41-9579-E8360A34BD6A}|DishManegment\\DishManegment.csproj|solutionrelative:dishmanegment\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDEC2F86-5256-45C8-BA91-CB74B96A50EA}|UnitTestServices\\UnitTestServices.csproj|C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\unittestservices\\customertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDEC2F86-5256-45C8-BA91-CB74B96A50EA}|UnitTestServices\\UnitTestServices.csproj|solutionrelative:unittestservices\\customertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F6F3B8-87CE-4C07-ADF0-CD1EBE2A7330}|Libraries\\EmpAPI1.Domain\\Menu.Domain.csproj|C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\libraries\\empapi1.domain\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F6F3B8-87CE-4C07-ADF0-CD1EBE2A7330}|Libraries\\EmpAPI1.Domain\\Menu.Domain.csproj|solutionrelative:libraries\\empapi1.domain\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F6F3B8-87CE-4C07-ADF0-CD1EBE2A7330}|Libraries\\EmpAPI1.Domain\\Menu.Domain.csproj|C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\libraries\\empapi1.domain\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F6F3B8-87CE-4C07-ADF0-CD1EBE2A7330}|Libraries\\EmpAPI1.Domain\\Menu.Domain.csproj|solutionrelative:libraries\\empapi1.domain\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F6F3B8-87CE-4C07-ADF0-CD1EBE2A7330}|Libraries\\EmpAPI1.Domain\\Menu.Domain.csproj|C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\libraries\\empapi1.domain\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F6F3B8-87CE-4C07-ADF0-CD1EBE2A7330}|Libraries\\EmpAPI1.Domain\\Menu.Domain.csproj|solutionrelative:libraries\\empapi1.domain\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC93E27E-693B-4AA8-82E6-7941A28A7807}|RazorApp\\RazorApp.csproj|C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\razorapp\\pages\\orderpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC93E27E-693B-4AA8-82E6-7941A28A7807}|RazorApp\\RazorApp.csproj|solutionrelative:razorapp\\pages\\orderpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC93E27E-693B-4AA8-82E6-7941A28A7807}|RazorApp\\RazorApp.csproj|C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\razorapp\\pages\\orderpage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC93E27E-693B-4AA8-82E6-7941A28A7807}|RazorApp\\RazorApp.csproj|solutionrelative:razorapp\\pages\\orderpage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78EA44BB-9B40-4268-8158-05C63E7C0752}|Libraries\\EmpAPI1.Infrastructure\\Menu.Infrastructure.csproj|C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\libraries\\empapi1.infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78EA44BB-9B40-4268-8158-05C63E7C0752}|Libraries\\EmpAPI1.Infrastructure\\Menu.Infrastructure.csproj|solutionrelative:libraries\\empapi1.infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78EA44BB-9B40-4268-8158-05C63E7C0752}|Libraries\\EmpAPI1.Infrastructure\\Menu.Infrastructure.csproj|C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\libraries\\empapi1.infrastructure\\dto\\orderitemef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78EA44BB-9B40-4268-8158-05C63E7C0752}|Libraries\\EmpAPI1.Infrastructure\\Menu.Infrastructure.csproj|solutionrelative:libraries\\empapi1.infrastructure\\dto\\orderitemef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC93E27E-693B-4AA8-82E6-7941A28A7807}|RazorApp\\RazorApp.csproj|C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\razorapp\\services\\orderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC93E27E-693B-4AA8-82E6-7941A28A7807}|RazorApp\\RazorApp.csproj|solutionrelative:razorapp\\services\\orderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC93E27E-693B-4AA8-82E6-7941A28A7807}|RazorApp\\RazorApp.csproj|C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\razorapp\\pages\\mainpage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC93E27E-693B-4AA8-82E6-7941A28A7807}|RazorApp\\RazorApp.csproj|solutionrelative:razorapp\\pages\\mainpage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC93E27E-693B-4AA8-82E6-7941A28A7807}|RazorApp\\RazorApp.csproj|C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\razorapp\\pages\\mainpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC93E27E-693B-4AA8-82E6-7941A28A7807}|RazorApp\\RazorApp.csproj|solutionrelative:razorapp\\pages\\mainpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78EA44BB-9B40-4268-8158-05C63E7C0752}|Libraries\\EmpAPI1.Infrastructure\\Menu.Infrastructure.csproj|C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\libraries\\empapi1.infrastructure\\dto\\orderef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78EA44BB-9B40-4268-8158-05C63E7C0752}|Libraries\\EmpAPI1.Infrastructure\\Menu.Infrastructure.csproj|solutionrelative:libraries\\empapi1.infrastructure\\dto\\orderef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC93E27E-693B-4AA8-82E6-7941A28A7807}|RazorApp\\RazorApp.csproj|C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\razorapp\\pages\\profilepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC93E27E-693B-4AA8-82E6-7941A28A7807}|RazorApp\\RazorApp.csproj|solutionrelative:razorapp\\pages\\profilepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC93E27E-693B-4AA8-82E6-7941A28A7807}|RazorApp\\RazorApp.csproj|C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\razorapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC93E27E-693B-4AA8-82E6-7941A28A7807}|RazorApp\\RazorApp.csproj|solutionrelative:razorapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC93E27E-693B-4AA8-82E6-7941A28A7807}|RazorApp\\RazorApp.csproj|C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\razorapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC93E27E-693B-4AA8-82E6-7941A28A7807}|RazorApp\\RazorApp.csproj|solutionrelative:razorapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC93E27E-693B-4AA8-82E6-7941A28A7807}|RazorApp\\RazorApp.csproj|C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\razorapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BC93E27E-693B-4AA8-82E6-7941A28A7807}|RazorApp\\RazorApp.csproj|solutionrelative:razorapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D82D5BF-27F5-4F41-9579-E8360A34BD6A}|DishManegment\\DishManegment.csproj|C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\dishmanegment\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8D82D5BF-27F5-4F41-9579-E8360A34BD6A}|DishManegment\\DishManegment.csproj|solutionrelative:dishmanegment\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D82D5BF-27F5-4F41-9579-E8360A34BD6A}|DishManegment\\DishManegment.csproj|C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\dishmanegment\\dishwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8D82D5BF-27F5-4F41-9579-E8360A34BD6A}|DishManegment\\DishManegment.csproj|solutionrelative:dishmanegment\\dishwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5859390A-AA08-429B-9535-8746AC23067F}|Apps\\EmpAPI1\\EmpAPI1.csproj|C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\apps\\empapi1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5859390A-AA08-429B-9535-8746AC23067F}|Apps\\EmpAPI1\\EmpAPI1.csproj|solutionrelative:apps\\empapi1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 29,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{28836128-fc2c-11d2-a433-00c04f72d18a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerServices.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\RazorApp\\Services\\CustomerServices.cs",
+              "RelativeDocumentMoniker": "RazorApp\\Services\\CustomerServices.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\RazorApp\\Services\\CustomerServices.cs",
+              "RelativeToolTip": "RazorApp\\Services\\CustomerServices.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T20:25:53.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\RazorApp\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorApp\\Pages\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\RazorApp\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "RazorApp\\Pages\\Login.cshtml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA3wBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T20:25:53.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\Apps\\EmpAPI1\\Program.cs",
+              "RelativeDocumentMoniker": "Apps\\EmpAPI1\\Program.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\Apps\\EmpAPI1\\Program.cs",
+              "RelativeToolTip": "Apps\\EmpAPI1\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAwwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T20:25:53.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\Libraries\\EmpAPI1.Domain\\Interfaces\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "Libraries\\EmpAPI1.Domain\\Interfaces\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\Libraries\\EmpAPI1.Domain\\Interfaces\\ICustomerRepository.cs",
+              "RelativeToolTip": "Libraries\\EmpAPI1.Domain\\Interfaces\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T21:51:25.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\RazorApp\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "RazorApp\\Pages\\Login.cshtml",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\RazorApp\\Pages\\Login.cshtml",
+              "RelativeToolTip": "RazorApp\\Pages\\Login.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T20:25:53.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\CreateDatabase\\Program.cs",
+              "RelativeDocumentMoniker": "CreateDatabase\\Program.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\CreateDatabase\\Program.cs",
+              "RelativeToolTip": "CreateDatabase\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T20:25:53.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\Libraries\\EmpAPI1.Infrastructure\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Libraries\\EmpAPI1.Infrastructure\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\Libraries\\EmpAPI1.Infrastructure\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "Libraries\\EmpAPI1.Infrastructure\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T20:25:53.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\RazorApp\\Program.cs",
+              "RelativeDocumentMoniker": "RazorApp\\Program.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\RazorApp\\Program.cs",
+              "RelativeToolTip": "RazorApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T20:25:53.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\Libraries\\EmpAPI1.REST\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Libraries\\EmpAPI1.REST\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\Libraries\\EmpAPI1.REST\\CustomerController.cs",
+              "RelativeToolTip": "Libraries\\EmpAPI1.REST\\CustomerController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwBYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T16:47:53.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\Libraries\\EmpAPI1.REST\\Mapping\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "Libraries\\EmpAPI1.REST\\Mapping\\MappingConfig.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\Libraries\\EmpAPI1.REST\\Mapping\\MappingConfig.cs",
+              "RelativeToolTip": "Libraries\\EmpAPI1.REST\\Mapping\\MappingConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T20:25:53.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RazorApp",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\RazorApp\\RazorApp.csproj",
+              "RelativeDocumentMoniker": "RazorApp\\RazorApp.csproj",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\RazorApp\\RazorApp.csproj",
+              "RelativeToolTip": "RazorApp\\RazorApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-08T16:28:43.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\Libraries\\EmpAPI1.REST\\DTO\\CustomerDTO.cs",
+              "RelativeDocumentMoniker": "Libraries\\EmpAPI1.REST\\DTO\\CustomerDTO.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\Libraries\\EmpAPI1.REST\\DTO\\CustomerDTO.cs",
+              "RelativeToolTip": "Libraries\\EmpAPI1.REST\\DTO\\CustomerDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T18:01:21.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\Apps\\EmpAPI1\\appsettings.json",
+              "RelativeDocumentMoniker": "Apps\\EmpAPI1\\appsettings.json",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\Apps\\EmpAPI1\\appsettings.json",
+              "RelativeToolTip": "Apps\\EmpAPI1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-01T20:25:53.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\Apps\\EmpAPI1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Apps\\EmpAPI1\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\Apps\\EmpAPI1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Apps\\EmpAPI1\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-07T17:04:22.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MenuDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\Libraries\\EmpAPI1.Infrastructure\\MenuDbContext.cs",
+              "RelativeDocumentMoniker": "Libraries\\EmpAPI1.Infrastructure\\MenuDbContext.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\Libraries\\EmpAPI1.Infrastructure\\MenuDbContext.cs",
+              "RelativeToolTip": "Libraries\\EmpAPI1.Infrastructure\\MenuDbContext.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAkwBgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T20:25:53.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DishController.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\Libraries\\EmpAPI1.REST\\DishController.cs",
+              "RelativeDocumentMoniker": "Libraries\\EmpAPI1.REST\\DishController.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\Libraries\\EmpAPI1.REST\\DishController.cs",
+              "RelativeToolTip": "Libraries\\EmpAPI1.REST\\DishController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T16:50:40.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DishManegment.csproj",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\DishManegment\\DishManegment.csproj",
+              "RelativeDocumentMoniker": "DishManegment\\DishManegment.csproj",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\DishManegment\\DishManegment.csproj",
+              "RelativeToolTip": "DishManegment\\DishManegment.csproj",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-01T20:25:53.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DishRepository.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\Libraries\\EmpAPI1.Infrastructure\\Repositories\\DishRepository.cs",
+              "RelativeDocumentMoniker": "Libraries\\EmpAPI1.Infrastructure\\Repositories\\DishRepository.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\Libraries\\EmpAPI1.Infrastructure\\Repositories\\DishRepository.cs",
+              "RelativeToolTip": "Libraries\\EmpAPI1.Infrastructure\\Repositories\\DishRepository.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T17:54:34.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\Libraries\\EmpAPI1.REST\\OrderController.cs",
+              "RelativeDocumentMoniker": "Libraries\\EmpAPI1.REST\\OrderController.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\Libraries\\EmpAPI1.REST\\OrderController.cs",
+              "RelativeToolTip": "Libraries\\EmpAPI1.REST\\OrderController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAmwEoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T20:25:53.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\Libraries\\EmpAPI1.Infrastructure\\Mapping\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "Libraries\\EmpAPI1.Infrastructure\\Mapping\\MappingConfig.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\Libraries\\EmpAPI1.Infrastructure\\Mapping\\MappingConfig.cs",
+              "RelativeToolTip": "Libraries\\EmpAPI1.Infrastructure\\Mapping\\MappingConfig.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T20:25:53.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\Libraries\\EmpAPI1.Domain\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Libraries\\EmpAPI1.Domain\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\Libraries\\EmpAPI1.Domain\\Models\\Customer.cs",
+              "RelativeToolTip": "Libraries\\EmpAPI1.Domain\\Models\\Customer.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T20:25:53.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CustomerEF.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\Libraries\\EmpAPI1.Infrastructure\\DTO\\CustomerEF.cs",
+              "RelativeDocumentMoniker": "Libraries\\EmpAPI1.Infrastructure\\DTO\\CustomerEF.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\Libraries\\EmpAPI1.Infrastructure\\DTO\\CustomerEF.cs",
+              "RelativeToolTip": "Libraries\\EmpAPI1.Infrastructure\\DTO\\CustomerEF.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T17:34:01.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\DishManegment\\App.xaml",
+              "RelativeDocumentMoniker": "DishManegment\\App.xaml",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\DishManegment\\App.xaml",
+              "RelativeToolTip": "DishManegment\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-01T20:25:53.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\Libraries\\EmpAPI1.REST\\DTO\\OrderItemDTO.cs",
+              "RelativeDocumentMoniker": "Libraries\\EmpAPI1.REST\\DTO\\OrderItemDTO.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\Libraries\\EmpAPI1.REST\\DTO\\OrderItemDTO.cs",
+              "RelativeToolTip": "Libraries\\EmpAPI1.REST\\DTO\\OrderItemDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T20:25:53.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DishService.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\DishManegment\\Services\\DishService.cs",
+              "RelativeDocumentMoniker": "DishManegment\\Services\\DishService.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\DishManegment\\Services\\DishService.cs",
+              "RelativeToolTip": "DishManegment\\Services\\DishService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAzwEIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T20:25:53.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DishWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\DishManegment\\DishWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DishManegment\\DishWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\DishManegment\\DishWindow.xaml.cs",
+              "RelativeToolTip": "DishManegment\\DishWindow.xaml.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAuwEcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T20:25:53.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\DishManegment\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DishManegment\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\DishManegment\\MainWindow.xaml.cs",
+              "RelativeToolTip": "DishManegment\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwFYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T20:25:53.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\Libraries\\EmpAPI1.Domain\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Libraries\\EmpAPI1.Domain\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\Libraries\\EmpAPI1.Domain\\Models\\Order.cs",
+              "RelativeToolTip": "Libraries\\EmpAPI1.Domain\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T20:25:53.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CustomerTests.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\UnitTestServices\\CustomerTests.cs",
+              "RelativeDocumentMoniker": "UnitTestServices\\CustomerTests.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\UnitTestServices\\CustomerTests.cs",
+              "RelativeToolTip": "UnitTestServices\\CustomerTests.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAYwNoAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T20:25:53.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Dish.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\Libraries\\EmpAPI1.Domain\\Models\\Dish.cs",
+              "RelativeDocumentMoniker": "Libraries\\EmpAPI1.Domain\\Models\\Dish.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\Libraries\\EmpAPI1.Domain\\Models\\Dish.cs",
+              "RelativeToolTip": "Libraries\\EmpAPI1.Domain\\Models\\Dish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T20:25:53.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OrderPage.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\RazorApp\\Pages\\OrderPage.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorApp\\Pages\\OrderPage.cshtml.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\RazorApp\\Pages\\OrderPage.cshtml.cs",
+              "RelativeToolTip": "RazorApp\\Pages\\OrderPage.cshtml.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAswDEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T20:25:53.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OrderPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\RazorApp\\Pages\\OrderPage.cshtml",
+              "RelativeDocumentMoniker": "RazorApp\\Pages\\OrderPage.cshtml",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\RazorApp\\Pages\\OrderPage.cshtml",
+              "RelativeToolTip": "RazorApp\\Pages\\OrderPage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T20:25:53.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\Libraries\\EmpAPI1.Domain\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Libraries\\EmpAPI1.Domain\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\Libraries\\EmpAPI1.Domain\\Models\\OrderItem.cs",
+              "RelativeToolTip": "Libraries\\EmpAPI1.Domain\\Models\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T20:25:53.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\Libraries\\EmpAPI1.Infrastructure\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Libraries\\EmpAPI1.Infrastructure\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\Libraries\\EmpAPI1.Infrastructure\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "Libraries\\EmpAPI1.Infrastructure\\Repositories\\OrderRepository.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwGEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T20:25:53.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "OrderItemEF.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\Libraries\\EmpAPI1.Infrastructure\\DTO\\OrderItemEF.cs",
+              "RelativeDocumentMoniker": "Libraries\\EmpAPI1.Infrastructure\\DTO\\OrderItemEF.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\Libraries\\EmpAPI1.Infrastructure\\DTO\\OrderItemEF.cs",
+              "RelativeToolTip": "Libraries\\EmpAPI1.Infrastructure\\DTO\\OrderItemEF.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwBgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T20:25:53.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "OrderServices.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\RazorApp\\Services\\OrderServices.cs",
+              "RelativeDocumentMoniker": "RazorApp\\Services\\OrderServices.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\RazorApp\\Services\\OrderServices.cs",
+              "RelativeToolTip": "RazorApp\\Services\\OrderServices.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAIA3wCQAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T20:25:53.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "MainPage.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\RazorApp\\Pages\\MainPage.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorApp\\Pages\\MainPage.cshtml.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\RazorApp\\Pages\\MainPage.cshtml.cs",
+              "RelativeToolTip": "RazorApp\\Pages\\MainPage.cshtml.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T20:25:53.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "MainPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\RazorApp\\Pages\\MainPage.cshtml",
+              "RelativeDocumentMoniker": "RazorApp\\Pages\\MainPage.cshtml",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\RazorApp\\Pages\\MainPage.cshtml",
+              "RelativeToolTip": "RazorApp\\Pages\\MainPage.cshtml",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T20:25:53.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "OrderEF.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\Libraries\\EmpAPI1.Infrastructure\\DTO\\OrderEF.cs",
+              "RelativeDocumentMoniker": "Libraries\\EmpAPI1.Infrastructure\\DTO\\OrderEF.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\Libraries\\EmpAPI1.Infrastructure\\DTO\\OrderEF.cs",
+              "RelativeToolTip": "Libraries\\EmpAPI1.Infrastructure\\DTO\\OrderEF.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T20:25:53.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ProfilePage.cshtml",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\RazorApp\\Pages\\ProfilePage.cshtml",
+              "RelativeDocumentMoniker": "RazorApp\\Pages\\ProfilePage.cshtml",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\RazorApp\\Pages\\ProfilePage.cshtml",
+              "RelativeToolTip": "RazorApp\\Pages\\ProfilePage.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T20:25:53.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\RazorApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RazorApp\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\RazorApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RazorApp\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T20:25:53.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\RazorApp\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorApp\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\RazorApp\\Pages\\Index.cshtml",
+              "RelativeToolTip": "RazorApp\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T20:25:53.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\RazorApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "RazorApp\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\RazorApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "RazorApp\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAABkAAAAAAAAAAAAqwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-01T20:25:53.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\DishManegment\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "DishManegment\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\DishManegment\\MainWindow.xaml",
+              "RelativeToolTip": "DishManegment\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-01T20:25:53.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "DishWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\DishManegment\\DishWindow.xaml",
+              "RelativeDocumentMoniker": "DishManegment\\DishWindow.xaml",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\DishManegment\\DishWindow.xaml",
+              "RelativeToolTip": "DishManegment\\DishWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-01T20:25:53.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\Apps\\EmpAPI1\\Program.cs",
+              "RelativeDocumentMoniker": "Apps\\EmpAPI1\\Program.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\HoGent\\3 semester\\Web4\\Web4-f\\Apps\\EmpAPI1\\Program.cs",
+              "RelativeToolTip": "Apps\\EmpAPI1\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAwwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T20:25:53.275Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

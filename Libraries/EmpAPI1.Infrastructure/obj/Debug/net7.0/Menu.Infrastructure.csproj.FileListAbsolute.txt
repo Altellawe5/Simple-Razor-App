@@ -1,0 +1,51 @@
+C:\Web4-f\Libraries\EmpAPI1.Infrastructure\bin\Debug\net7.0\Menu.Infrastructure.deps.json
+C:\Web4-f\Libraries\EmpAPI1.Infrastructure\bin\Debug\net7.0\Menu.Infrastructure.runtimeconfig.json
+C:\Web4-f\Libraries\EmpAPI1.Infrastructure\bin\Debug\net7.0\Menu.Infrastructure.dll
+C:\Web4-f\Libraries\EmpAPI1.Infrastructure\bin\Debug\net7.0\Menu.Infrastructure.pdb
+C:\Web4-f\Libraries\EmpAPI1.Infrastructure\bin\Debug\net7.0\Menu.Domain.dll
+C:\Web4-f\Libraries\EmpAPI1.Infrastructure\bin\Debug\net7.0\Menu.Domain.pdb
+C:\Web4-f\Libraries\EmpAPI1.Infrastructure\obj\Debug\net7.0\Menu.Infrastructure.csproj.AssemblyReference.cache
+C:\Web4-f\Libraries\EmpAPI1.Infrastructure\obj\Debug\net7.0\Menu.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Web4-f\Libraries\EmpAPI1.Infrastructure\obj\Debug\net7.0\Menu.Infrastructure.AssemblyInfoInputs.cache
+C:\Web4-f\Libraries\EmpAPI1.Infrastructure\obj\Debug\net7.0\Menu.Infrastructure.AssemblyInfo.cs
+C:\Web4-f\Libraries\EmpAPI1.Infrastructure\obj\Debug\net7.0\Menu.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Web4-f\Libraries\EmpAPI1.Infrastructure\obj\Debug\net7.0\Menu.Infrastructure.csproj.CopyComplete
+C:\Web4-f\Libraries\EmpAPI1.Infrastructure\obj\Debug\net7.0\Menu.Infrastructure.dll
+C:\Web4-f\Libraries\EmpAPI1.Infrastructure\obj\Debug\net7.0\refint\Menu.Infrastructure.dll
+C:\Web4-f\Libraries\EmpAPI1.Infrastructure\obj\Debug\net7.0\Menu.Infrastructure.pdb
+C:\Web4-f\Libraries\EmpAPI1.Infrastructure\obj\Debug\net7.0\Menu.Infrastructure.genruntimeconfig.cache
+C:\Web4-f\Libraries\EmpAPI1.Infrastructure\obj\Debug\net7.0\ref\Menu.Infrastructure.dll
+C:\Users\yazan\OneDrive\سطح المكتب\Web4-f\Libraries\EmpAPI1.Infrastructure\bin\Debug\net7.0\Menu.Infrastructure.deps.json
+C:\Users\yazan\OneDrive\سطح المكتب\Web4-f\Libraries\EmpAPI1.Infrastructure\bin\Debug\net7.0\Menu.Infrastructure.runtimeconfig.json
+C:\Users\yazan\OneDrive\سطح المكتب\Web4-f\Libraries\EmpAPI1.Infrastructure\bin\Debug\net7.0\Menu.Infrastructure.dll
+C:\Users\yazan\OneDrive\سطح المكتب\Web4-f\Libraries\EmpAPI1.Infrastructure\bin\Debug\net7.0\Menu.Infrastructure.pdb
+C:\Users\yazan\OneDrive\سطح المكتب\Web4-f\Libraries\EmpAPI1.Infrastructure\bin\Debug\net7.0\Menu.Domain.dll
+C:\Users\yazan\OneDrive\سطح المكتب\Web4-f\Libraries\EmpAPI1.Infrastructure\bin\Debug\net7.0\Menu.Domain.pdb
+C:\Users\yazan\OneDrive\سطح المكتب\Web4-f\Libraries\EmpAPI1.Infrastructure\obj\Debug\net7.0\Menu.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\yazan\OneDrive\سطح المكتب\Web4-f\Libraries\EmpAPI1.Infrastructure\obj\Debug\net7.0\Menu.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yazan\OneDrive\سطح المكتب\Web4-f\Libraries\EmpAPI1.Infrastructure\obj\Debug\net7.0\Menu.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\yazan\OneDrive\سطح المكتب\Web4-f\Libraries\EmpAPI1.Infrastructure\obj\Debug\net7.0\Menu.Infrastructure.AssemblyInfo.cs
+C:\Users\yazan\OneDrive\سطح المكتب\Web4-f\Libraries\EmpAPI1.Infrastructure\obj\Debug\net7.0\Menu.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\yazan\OneDrive\سطح المكتب\Web4-f\Libraries\EmpAPI1.Infrastructure\obj\Debug\net7.0\Menu.Infrastructure.csproj.CopyComplete
+C:\Users\yazan\OneDrive\سطح المكتب\Web4-f\Libraries\EmpAPI1.Infrastructure\obj\Debug\net7.0\Menu.Infrastructure.dll
+C:\Users\yazan\OneDrive\سطح المكتب\Web4-f\Libraries\EmpAPI1.Infrastructure\obj\Debug\net7.0\refint\Menu.Infrastructure.dll
+C:\Users\yazan\OneDrive\سطح المكتب\Web4-f\Libraries\EmpAPI1.Infrastructure\obj\Debug\net7.0\Menu.Infrastructure.pdb
+C:\Users\yazan\OneDrive\سطح المكتب\Web4-f\Libraries\EmpAPI1.Infrastructure\obj\Debug\net7.0\Menu.Infrastructure.genruntimeconfig.cache
+C:\Users\yazan\OneDrive\سطح المكتب\Web4-f\Libraries\EmpAPI1.Infrastructure\obj\Debug\net7.0\ref\Menu.Infrastructure.dll
+C:\Users\yazan\OneDrive\سطح المكتب\HoGent\3 semester\Web4\Web4-f\Libraries\EmpAPI1.Infrastructure\bin\Debug\net7.0\Menu.Infrastructure.deps.json
+C:\Users\yazan\OneDrive\سطح المكتب\HoGent\3 semester\Web4\Web4-f\Libraries\EmpAPI1.Infrastructure\bin\Debug\net7.0\Menu.Infrastructure.runtimeconfig.json
+C:\Users\yazan\OneDrive\سطح المكتب\HoGent\3 semester\Web4\Web4-f\Libraries\EmpAPI1.Infrastructure\bin\Debug\net7.0\Menu.Infrastructure.dll
+C:\Users\yazan\OneDrive\سطح المكتب\HoGent\3 semester\Web4\Web4-f\Libraries\EmpAPI1.Infrastructure\bin\Debug\net7.0\Menu.Infrastructure.pdb
+C:\Users\yazan\OneDrive\سطح المكتب\HoGent\3 semester\Web4\Web4-f\Libraries\EmpAPI1.Infrastructure\bin\Debug\net7.0\Menu.Domain.dll
+C:\Users\yazan\OneDrive\سطح المكتب\HoGent\3 semester\Web4\Web4-f\Libraries\EmpAPI1.Infrastructure\bin\Debug\net7.0\Menu.Domain.pdb
+C:\Users\yazan\OneDrive\سطح المكتب\HoGent\3 semester\Web4\Web4-f\Libraries\EmpAPI1.Infrastructure\obj\Debug\net7.0\Menu.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\yazan\OneDrive\سطح المكتب\HoGent\3 semester\Web4\Web4-f\Libraries\EmpAPI1.Infrastructure\obj\Debug\net7.0\Menu.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yazan\OneDrive\سطح المكتب\HoGent\3 semester\Web4\Web4-f\Libraries\EmpAPI1.Infrastructure\obj\Debug\net7.0\Menu.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\yazan\OneDrive\سطح المكتب\HoGent\3 semester\Web4\Web4-f\Libraries\EmpAPI1.Infrastructure\obj\Debug\net7.0\Menu.Infrastructure.AssemblyInfo.cs
+C:\Users\yazan\OneDrive\سطح المكتب\HoGent\3 semester\Web4\Web4-f\Libraries\EmpAPI1.Infrastructure\obj\Debug\net7.0\Menu.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\yazan\OneDrive\سطح المكتب\HoGent\3 semester\Web4\Web4-f\Libraries\EmpAPI1.Infrastructure\obj\Debug\net7.0\Menu.Inf.2393ABFF.Up2Date
+C:\Users\yazan\OneDrive\سطح المكتب\HoGent\3 semester\Web4\Web4-f\Libraries\EmpAPI1.Infrastructure\obj\Debug\net7.0\Menu.Infrastructure.dll
+C:\Users\yazan\OneDrive\سطح المكتب\HoGent\3 semester\Web4\Web4-f\Libraries\EmpAPI1.Infrastructure\obj\Debug\net7.0\refint\Menu.Infrastructure.dll
+C:\Users\yazan\OneDrive\سطح المكتب\HoGent\3 semester\Web4\Web4-f\Libraries\EmpAPI1.Infrastructure\obj\Debug\net7.0\Menu.Infrastructure.pdb
+C:\Users\yazan\OneDrive\سطح المكتب\HoGent\3 semester\Web4\Web4-f\Libraries\EmpAPI1.Infrastructure\obj\Debug\net7.0\Menu.Infrastructure.genruntimeconfig.cache
+C:\Users\yazan\OneDrive\سطح المكتب\HoGent\3 semester\Web4\Web4-f\Libraries\EmpAPI1.Infrastructure\obj\Debug\net7.0\ref\Menu.Infrastructure.dll

@@ -1,0 +1,35 @@
+C:\Web4-f\Libraries\EmpAPI1.Domain\bin\Debug\net7.0\Menu.Domain.deps.json
+C:\Web4-f\Libraries\EmpAPI1.Domain\bin\Debug\net7.0\Menu.Domain.dll
+C:\Web4-f\Libraries\EmpAPI1.Domain\bin\Debug\net7.0\Menu.Domain.pdb
+C:\Web4-f\Libraries\EmpAPI1.Domain\obj\Debug\net7.0\Menu.Domain.csproj.AssemblyReference.cache
+C:\Web4-f\Libraries\EmpAPI1.Domain\obj\Debug\net7.0\Menu.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Web4-f\Libraries\EmpAPI1.Domain\obj\Debug\net7.0\Menu.Domain.AssemblyInfoInputs.cache
+C:\Web4-f\Libraries\EmpAPI1.Domain\obj\Debug\net7.0\Menu.Domain.AssemblyInfo.cs
+C:\Web4-f\Libraries\EmpAPI1.Domain\obj\Debug\net7.0\Menu.Domain.csproj.CoreCompileInputs.cache
+C:\Web4-f\Libraries\EmpAPI1.Domain\obj\Debug\net7.0\Menu.Domain.dll
+C:\Web4-f\Libraries\EmpAPI1.Domain\obj\Debug\net7.0\refint\Menu.Domain.dll
+C:\Web4-f\Libraries\EmpAPI1.Domain\obj\Debug\net7.0\Menu.Domain.pdb
+C:\Web4-f\Libraries\EmpAPI1.Domain\obj\Debug\net7.0\ref\Menu.Domain.dll
+C:\Users\yazan\OneDrive\سطح المكتب\Web4-f\Libraries\EmpAPI1.Domain\bin\Debug\net7.0\Menu.Domain.deps.json
+C:\Users\yazan\OneDrive\سطح المكتب\Web4-f\Libraries\EmpAPI1.Domain\bin\Debug\net7.0\Menu.Domain.dll
+C:\Users\yazan\OneDrive\سطح المكتب\Web4-f\Libraries\EmpAPI1.Domain\bin\Debug\net7.0\Menu.Domain.pdb
+C:\Users\yazan\OneDrive\سطح المكتب\Web4-f\Libraries\EmpAPI1.Domain\obj\Debug\net7.0\Menu.Domain.csproj.AssemblyReference.cache
+C:\Users\yazan\OneDrive\سطح المكتب\Web4-f\Libraries\EmpAPI1.Domain\obj\Debug\net7.0\Menu.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yazan\OneDrive\سطح المكتب\Web4-f\Libraries\EmpAPI1.Domain\obj\Debug\net7.0\Menu.Domain.AssemblyInfoInputs.cache
+C:\Users\yazan\OneDrive\سطح المكتب\Web4-f\Libraries\EmpAPI1.Domain\obj\Debug\net7.0\Menu.Domain.AssemblyInfo.cs
+C:\Users\yazan\OneDrive\سطح المكتب\Web4-f\Libraries\EmpAPI1.Domain\obj\Debug\net7.0\Menu.Domain.csproj.CoreCompileInputs.cache
+C:\Users\yazan\OneDrive\سطح المكتب\Web4-f\Libraries\EmpAPI1.Domain\obj\Debug\net7.0\Menu.Domain.dll
+C:\Users\yazan\OneDrive\سطح المكتب\Web4-f\Libraries\EmpAPI1.Domain\obj\Debug\net7.0\refint\Menu.Domain.dll
+C:\Users\yazan\OneDrive\سطح المكتب\Web4-f\Libraries\EmpAPI1.Domain\obj\Debug\net7.0\Menu.Domain.pdb
+C:\Users\yazan\OneDrive\سطح المكتب\Web4-f\Libraries\EmpAPI1.Domain\obj\Debug\net7.0\ref\Menu.Domain.dll
+C:\Users\yazan\OneDrive\سطح المكتب\HoGent\3 semester\Web4\Web4-f\Libraries\EmpAPI1.Domain\bin\Debug\net7.0\Menu.Domain.deps.json
+C:\Users\yazan\OneDrive\سطح المكتب\HoGent\3 semester\Web4\Web4-f\Libraries\EmpAPI1.Domain\bin\Debug\net7.0\Menu.Domain.dll
+C:\Users\yazan\OneDrive\سطح المكتب\HoGent\3 semester\Web4\Web4-f\Libraries\EmpAPI1.Domain\bin\Debug\net7.0\Menu.Domain.pdb
+C:\Users\yazan\OneDrive\سطح المكتب\HoGent\3 semester\Web4\Web4-f\Libraries\EmpAPI1.Domain\obj\Debug\net7.0\Menu.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yazan\OneDrive\سطح المكتب\HoGent\3 semester\Web4\Web4-f\Libraries\EmpAPI1.Domain\obj\Debug\net7.0\Menu.Domain.AssemblyInfoInputs.cache
+C:\Users\yazan\OneDrive\سطح المكتب\HoGent\3 semester\Web4\Web4-f\Libraries\EmpAPI1.Domain\obj\Debug\net7.0\Menu.Domain.AssemblyInfo.cs
+C:\Users\yazan\OneDrive\سطح المكتب\HoGent\3 semester\Web4\Web4-f\Libraries\EmpAPI1.Domain\obj\Debug\net7.0\Menu.Domain.csproj.CoreCompileInputs.cache
+C:\Users\yazan\OneDrive\سطح المكتب\HoGent\3 semester\Web4\Web4-f\Libraries\EmpAPI1.Domain\obj\Debug\net7.0\Menu.Domain.dll
+C:\Users\yazan\OneDrive\سطح المكتب\HoGent\3 semester\Web4\Web4-f\Libraries\EmpAPI1.Domain\obj\Debug\net7.0\refint\Menu.Domain.dll
+C:\Users\yazan\OneDrive\سطح المكتب\HoGent\3 semester\Web4\Web4-f\Libraries\EmpAPI1.Domain\obj\Debug\net7.0\Menu.Domain.pdb
+C:\Users\yazan\OneDrive\سطح المكتب\HoGent\3 semester\Web4\Web4-f\Libraries\EmpAPI1.Domain\obj\Debug\net7.0\ref\Menu.Domain.dll

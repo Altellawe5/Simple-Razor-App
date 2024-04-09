@@ -1,0 +1,6 @@
+-- CREATE TABLE "Employees" (
+--    "EmpId" INTEGER NOT NULL CONSTRAINT "PK_Employees" PRIMARY KEY AUTOINCREMENT,
+--    "Name" TEXT NOT NULL,
+--    "Dept" TEXT NOT NULL,
+--    "Address" TEXT NOT NULL
+-- )

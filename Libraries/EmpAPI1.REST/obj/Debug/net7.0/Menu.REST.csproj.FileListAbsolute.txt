@@ -1,0 +1,51 @@
+C:\Web4-f\Libraries\EmpAPI1.REST\bin\Debug\net7.0\Menu.REST.deps.json
+C:\Web4-f\Libraries\EmpAPI1.REST\bin\Debug\net7.0\Menu.REST.dll
+C:\Web4-f\Libraries\EmpAPI1.REST\bin\Debug\net7.0\Menu.REST.pdb
+C:\Web4-f\Libraries\EmpAPI1.REST\bin\Debug\net7.0\Menu.Domain.dll
+C:\Web4-f\Libraries\EmpAPI1.REST\bin\Debug\net7.0\Menu.Infrastructure.dll
+C:\Web4-f\Libraries\EmpAPI1.REST\bin\Debug\net7.0\Menu.Infrastructure.pdb
+C:\Web4-f\Libraries\EmpAPI1.REST\bin\Debug\net7.0\Menu.Domain.pdb
+C:\Web4-f\Libraries\EmpAPI1.REST\obj\Debug\net7.0\Menu.REST.csproj.AssemblyReference.cache
+C:\Web4-f\Libraries\EmpAPI1.REST\obj\Debug\net7.0\Menu.REST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Web4-f\Libraries\EmpAPI1.REST\obj\Debug\net7.0\Menu.REST.AssemblyInfoInputs.cache
+C:\Web4-f\Libraries\EmpAPI1.REST\obj\Debug\net7.0\Menu.REST.AssemblyInfo.cs
+C:\Web4-f\Libraries\EmpAPI1.REST\obj\Debug\net7.0\Menu.REST.csproj.CoreCompileInputs.cache
+C:\Web4-f\Libraries\EmpAPI1.REST\obj\Debug\net7.0\Menu.REST.csproj.CopyComplete
+C:\Web4-f\Libraries\EmpAPI1.REST\obj\Debug\net7.0\Menu.REST.dll
+C:\Web4-f\Libraries\EmpAPI1.REST\obj\Debug\net7.0\refint\Menu.REST.dll
+C:\Web4-f\Libraries\EmpAPI1.REST\obj\Debug\net7.0\Menu.REST.pdb
+C:\Web4-f\Libraries\EmpAPI1.REST\obj\Debug\net7.0\ref\Menu.REST.dll
+C:\Users\yazan\OneDrive\سطح المكتب\Web4-f\Libraries\EmpAPI1.REST\bin\Debug\net7.0\Menu.REST.deps.json
+C:\Users\yazan\OneDrive\سطح المكتب\Web4-f\Libraries\EmpAPI1.REST\bin\Debug\net7.0\Menu.REST.dll
+C:\Users\yazan\OneDrive\سطح المكتب\Web4-f\Libraries\EmpAPI1.REST\bin\Debug\net7.0\Menu.REST.pdb
+C:\Users\yazan\OneDrive\سطح المكتب\Web4-f\Libraries\EmpAPI1.REST\bin\Debug\net7.0\Menu.Domain.dll
+C:\Users\yazan\OneDrive\سطح المكتب\Web4-f\Libraries\EmpAPI1.REST\bin\Debug\net7.0\Menu.Infrastructure.dll
+C:\Users\yazan\OneDrive\سطح المكتب\Web4-f\Libraries\EmpAPI1.REST\bin\Debug\net7.0\Menu.Infrastructure.pdb
+C:\Users\yazan\OneDrive\سطح المكتب\Web4-f\Libraries\EmpAPI1.REST\bin\Debug\net7.0\Menu.Domain.pdb
+C:\Users\yazan\OneDrive\سطح المكتب\Web4-f\Libraries\EmpAPI1.REST\obj\Debug\net7.0\Menu.REST.csproj.AssemblyReference.cache
+C:\Users\yazan\OneDrive\سطح المكتب\Web4-f\Libraries\EmpAPI1.REST\obj\Debug\net7.0\Menu.REST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yazan\OneDrive\سطح المكتب\Web4-f\Libraries\EmpAPI1.REST\obj\Debug\net7.0\Menu.REST.AssemblyInfoInputs.cache
+C:\Users\yazan\OneDrive\سطح المكتب\Web4-f\Libraries\EmpAPI1.REST\obj\Debug\net7.0\Menu.REST.AssemblyInfo.cs
+C:\Users\yazan\OneDrive\سطح المكتب\Web4-f\Libraries\EmpAPI1.REST\obj\Debug\net7.0\Menu.REST.csproj.CoreCompileInputs.cache
+C:\Users\yazan\OneDrive\سطح المكتب\Web4-f\Libraries\EmpAPI1.REST\obj\Debug\net7.0\Menu.REST.csproj.CopyComplete
+C:\Users\yazan\OneDrive\سطح المكتب\Web4-f\Libraries\EmpAPI1.REST\obj\Debug\net7.0\Menu.REST.dll
+C:\Users\yazan\OneDrive\سطح المكتب\Web4-f\Libraries\EmpAPI1.REST\obj\Debug\net7.0\refint\Menu.REST.dll
+C:\Users\yazan\OneDrive\سطح المكتب\Web4-f\Libraries\EmpAPI1.REST\obj\Debug\net7.0\Menu.REST.pdb
+C:\Users\yazan\OneDrive\سطح المكتب\Web4-f\Libraries\EmpAPI1.REST\obj\Debug\net7.0\ref\Menu.REST.dll
+C:\Users\yazan\OneDrive\سطح المكتب\HoGent\3 semester\Web4\Web4-f\Libraries\EmpAPI1.REST\bin\Debug\net7.0\Menu.REST.deps.json
+C:\Users\yazan\OneDrive\سطح المكتب\HoGent\3 semester\Web4\Web4-f\Libraries\EmpAPI1.REST\bin\Debug\net7.0\Menu.REST.dll
+C:\Users\yazan\OneDrive\سطح المكتب\HoGent\3 semester\Web4\Web4-f\Libraries\EmpAPI1.REST\bin\Debug\net7.0\Menu.REST.pdb
+C:\Users\yazan\OneDrive\سطح المكتب\HoGent\3 semester\Web4\Web4-f\Libraries\EmpAPI1.REST\bin\Debug\net7.0\Menu.Domain.dll
+C:\Users\yazan\OneDrive\سطح المكتب\HoGent\3 semester\Web4\Web4-f\Libraries\EmpAPI1.REST\bin\Debug\net7.0\Menu.Infrastructure.dll
+C:\Users\yazan\OneDrive\سطح المكتب\HoGent\3 semester\Web4\Web4-f\Libraries\EmpAPI1.REST\bin\Debug\net7.0\Menu.Infrastructure.pdb
+C:\Users\yazan\OneDrive\سطح المكتب\HoGent\3 semester\Web4\Web4-f\Libraries\EmpAPI1.REST\bin\Debug\net7.0\Menu.Domain.pdb
+C:\Users\yazan\OneDrive\سطح المكتب\HoGent\3 semester\Web4\Web4-f\Libraries\EmpAPI1.REST\obj\Debug\net7.0\Menu.REST.csproj.AssemblyReference.cache
+C:\Users\yazan\OneDrive\سطح المكتب\HoGent\3 semester\Web4\Web4-f\Libraries\EmpAPI1.REST\obj\Debug\net7.0\Menu.REST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yazan\OneDrive\سطح المكتب\HoGent\3 semester\Web4\Web4-f\Libraries\EmpAPI1.REST\obj\Debug\net7.0\Menu.REST.AssemblyInfoInputs.cache
+C:\Users\yazan\OneDrive\سطح المكتب\HoGent\3 semester\Web4\Web4-f\Libraries\EmpAPI1.REST\obj\Debug\net7.0\Menu.REST.AssemblyInfo.cs
+C:\Users\yazan\OneDrive\سطح المكتب\HoGent\3 semester\Web4\Web4-f\Libraries\EmpAPI1.REST\obj\Debug\net7.0\Menu.REST.csproj.CoreCompileInputs.cache
+C:\Users\yazan\OneDrive\سطح المكتب\HoGent\3 semester\Web4\Web4-f\Libraries\EmpAPI1.REST\obj\Debug\net7.0\Menu.REST.csproj.Up2Date
+C:\Users\yazan\OneDrive\سطح المكتب\HoGent\3 semester\Web4\Web4-f\Libraries\EmpAPI1.REST\obj\Debug\net7.0\Menu.REST.dll
+C:\Users\yazan\OneDrive\سطح المكتب\HoGent\3 semester\Web4\Web4-f\Libraries\EmpAPI1.REST\obj\Debug\net7.0\refint\Menu.REST.dll
+C:\Users\yazan\OneDrive\سطح المكتب\HoGent\3 semester\Web4\Web4-f\Libraries\EmpAPI1.REST\obj\Debug\net7.0\Menu.REST.pdb
+C:\Users\yazan\OneDrive\سطح المكتب\HoGent\3 semester\Web4\Web4-f\Libraries\EmpAPI1.REST\obj\Debug\net7.0\ref\Menu.REST.dll

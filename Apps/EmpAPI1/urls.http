@@ -1,0 +1,1 @@
+GET https://localhost:7020/weatherforecast HTTP/1.1

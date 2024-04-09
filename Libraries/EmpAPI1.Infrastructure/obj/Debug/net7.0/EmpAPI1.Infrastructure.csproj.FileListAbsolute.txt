@@ -1,0 +1,17 @@
+C:\Users\yazan\Downloads\EmpAPI1 (1)\EmpAPI1\Libraries\EmpAPI1.Infrastructure\bin\Debug\net7.0\EmpAPI1.Infrastructure.deps.json
+C:\Users\yazan\Downloads\EmpAPI1 (1)\EmpAPI1\Libraries\EmpAPI1.Infrastructure\bin\Debug\net7.0\EmpAPI1.Infrastructure.runtimeconfig.json
+C:\Users\yazan\Downloads\EmpAPI1 (1)\EmpAPI1\Libraries\EmpAPI1.Infrastructure\bin\Debug\net7.0\EmpAPI1.Infrastructure.dll
+C:\Users\yazan\Downloads\EmpAPI1 (1)\EmpAPI1\Libraries\EmpAPI1.Infrastructure\bin\Debug\net7.0\EmpAPI1.Infrastructure.pdb
+C:\Users\yazan\Downloads\EmpAPI1 (1)\EmpAPI1\Libraries\EmpAPI1.Infrastructure\bin\Debug\net7.0\EmpAPI1.Domain.dll
+C:\Users\yazan\Downloads\EmpAPI1 (1)\EmpAPI1\Libraries\EmpAPI1.Infrastructure\bin\Debug\net7.0\EmpAPI1.Domain.pdb
+C:\Users\yazan\Downloads\EmpAPI1 (1)\EmpAPI1\Libraries\EmpAPI1.Infrastructure\obj\Debug\net7.0\EmpAPI1.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\yazan\Downloads\EmpAPI1 (1)\EmpAPI1\Libraries\EmpAPI1.Infrastructure\obj\Debug\net7.0\EmpAPI1.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yazan\Downloads\EmpAPI1 (1)\EmpAPI1\Libraries\EmpAPI1.Infrastructure\obj\Debug\net7.0\EmpAPI1.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\yazan\Downloads\EmpAPI1 (1)\EmpAPI1\Libraries\EmpAPI1.Infrastructure\obj\Debug\net7.0\EmpAPI1.Infrastructure.AssemblyInfo.cs
+C:\Users\yazan\Downloads\EmpAPI1 (1)\EmpAPI1\Libraries\EmpAPI1.Infrastructure\obj\Debug\net7.0\EmpAPI1.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\yazan\Downloads\EmpAPI1 (1)\EmpAPI1\Libraries\EmpAPI1.Infrastructure\obj\Debug\net7.0\EmpAPI1.Infrastructure.csproj.CopyComplete
+C:\Users\yazan\Downloads\EmpAPI1 (1)\EmpAPI1\Libraries\EmpAPI1.Infrastructure\obj\Debug\net7.0\EmpAPI1.Infrastructure.dll
+C:\Users\yazan\Downloads\EmpAPI1 (1)\EmpAPI1\Libraries\EmpAPI1.Infrastructure\obj\Debug\net7.0\refint\EmpAPI1.Infrastructure.dll
+C:\Users\yazan\Downloads\EmpAPI1 (1)\EmpAPI1\Libraries\EmpAPI1.Infrastructure\obj\Debug\net7.0\EmpAPI1.Infrastructure.pdb
+C:\Users\yazan\Downloads\EmpAPI1 (1)\EmpAPI1\Libraries\EmpAPI1.Infrastructure\obj\Debug\net7.0\EmpAPI1.Infrastructure.genruntimeconfig.cache
+C:\Users\yazan\Downloads\EmpAPI1 (1)\EmpAPI1\Libraries\EmpAPI1.Infrastructure\obj\Debug\net7.0\ref\EmpAPI1.Infrastructure.dll
